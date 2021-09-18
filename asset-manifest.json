@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/HojaDeVida/static/css/main.2b303e5d.chunk.css",
+    "main.js": "/HojaDeVida/static/js/main.29e6a5ec.chunk.js",
+    "main.js.map": "/HojaDeVida/static/js/main.29e6a5ec.chunk.js.map",
+    "runtime-main.js": "/HojaDeVida/static/js/runtime-main.984abc27.js",
+    "runtime-main.js.map": "/HojaDeVida/static/js/runtime-main.984abc27.js.map",
+    "static/js/2.10481ee4.chunk.js": "/HojaDeVida/static/js/2.10481ee4.chunk.js",
+    "static/js/2.10481ee4.chunk.js.map": "/HojaDeVida/static/js/2.10481ee4.chunk.js.map",
+    "static/js/3.920d03d2.chunk.js": "/HojaDeVida/static/js/3.920d03d2.chunk.js",
+    "static/js/3.920d03d2.chunk.js.map": "/HojaDeVida/static/js/3.920d03d2.chunk.js.map",
+    "index.html": "/HojaDeVida/index.html",
+    "static/css/main.2b303e5d.chunk.css.map": "/HojaDeVida/static/css/main.2b303e5d.chunk.css.map",
+    "static/js/2.10481ee4.chunk.js.LICENSE.txt": "/HojaDeVida/static/js/2.10481ee4.chunk.js.LICENSE.txt",
+    "static/media/camila.beedb070.jpeg": "/HojaDeVida/static/media/camila.beedb070.jpeg",
+    "static/media/github.391810db.png": "/HojaDeVida/static/media/github.391810db.png",
+    "static/media/Header.css": "/HojaDeVida/static/media/header.85398ad4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.984abc27.js",
+    "static/js/2.10481ee4.chunk.js",
+    "static/css/main.2b303e5d.chunk.css",
+    "static/js/main.29e6a5ec.chunk.js"
+  ]
+}
