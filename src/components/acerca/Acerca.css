@@ -1,0 +1,41 @@
+
+.acerca{
+   flex-basis: 50%;
+  }
+
+
+.infolab{
+    padding: 10px 30px;
+}
+
+.titlab{
+    background-color: #9CA8CA;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    padding: 5px 20px;
+    margin: 10px 0;
+}
+.estudio p{
+    padding-left: 40px;
+    margin: 10px 0;
+}
+
+progress[value]{
+
+    width: 100%;
+    height: 15px;
+    appearance: none;
+    color: #9CA8CA;
+    
+}
+
+progress::-moz-progress-bar {background-color:#9CA8CA;}
+progress::-webkit-progress-bar{background-color:#9CA8CA;}
+progress[value]::-webkit-progress-value {
+    background-color: #3a4e7a;
+}
+
+.habilidades{
+    padding-left: 40px;
+    margin: 10px 0;
+}
