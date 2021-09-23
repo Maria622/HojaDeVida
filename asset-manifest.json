@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/HojaDeVida/static/css/main.07d8ea2d.chunk.css",
-    "main.js": "/HojaDeVida/static/js/main.00ec6e4c.chunk.js",
-    "main.js.map": "/HojaDeVida/static/js/main.00ec6e4c.chunk.js.map",
+    "main.js": "/HojaDeVida/static/js/main.87e77721.chunk.js",
+    "main.js.map": "/HojaDeVida/static/js/main.87e77721.chunk.js.map",
     "runtime-main.js": "/HojaDeVida/static/js/runtime-main.0c121be1.js",
     "runtime-main.js.map": "/HojaDeVida/static/js/runtime-main.0c121be1.js.map",
     "static/js/2.ea550886.chunk.js": "/HojaDeVida/static/js/2.ea550886.chunk.js",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.0c121be1.js",
     "static/js/2.ea550886.chunk.js",
     "static/css/main.07d8ea2d.chunk.css",
-    "static/js/main.00ec6e4c.chunk.js"
+    "static/js/main.87e77721.chunk.js"
   ]
 }
