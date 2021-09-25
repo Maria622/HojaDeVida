@@ -8,8 +8,8 @@ function Header(){
            <img src={foto} alt="foto Maria Camila" />
        </div>
        <div className="texto">
-       <h1>MARIA  CAMILA VERGAÑO</h1>
-       <h3>DESARROLLADORA WEB</h3>
+       <h1 className="ah1">MARIA  CAMILA VERGAÑO</h1>
+       <h3 className="ah1">DESARROLLADORA WEB</h3>
        </div>
   </header>
     );
